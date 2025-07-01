@@ -1,2 +1,7 @@
-flask
+Flask
+httpx
 requests
+protobuf
+pycryptodome
+PyJWT
+protobuf-decoder
